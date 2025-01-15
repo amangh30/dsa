@@ -13,3 +13,7 @@
 
 4. [Dynamic Allocation](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/4.cpp)  
    Description: Use pointers to create objects.
+
+5. [Constructor](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/5.cpp)  
+   Description: Constructor in OOPS.
+
