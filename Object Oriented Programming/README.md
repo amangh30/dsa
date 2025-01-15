@@ -10,3 +10,6 @@
 
 3. [Padding](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/3.cpp)  
    Description: Concept of padding in OOPS.
+
+4. [Dynamic Allocation](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/4.cpp)  
+   Description: Use pointers to create objects.
