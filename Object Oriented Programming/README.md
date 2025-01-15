@@ -17,3 +17,5 @@
 5. [Constructor](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/5.cpp)  
    Description: Constructor in OOPS.
 
+6. [Destructor](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/6.cpp)  
+   Description: Destructor in OOPS.
