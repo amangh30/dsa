@@ -19,3 +19,6 @@
 
 6. [Destructor](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/6.cpp)  
    Description: Destructor in OOPS.
+
+7. [Static Keyword](https://github.com/amangh30/dsa/blob/main/Object%20Oriented%20Programming/7.cpp)  
+   Description: Demonstrates use of static keyword in OOPS.
