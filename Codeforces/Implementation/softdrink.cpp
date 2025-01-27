@@ -12,3 +12,5 @@ int main(){
     cout<<ans<<endl;
     return 0;
 }
+
+// https://codeforces.com/problemset/problem/151/A
