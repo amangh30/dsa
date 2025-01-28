@@ -32,3 +32,5 @@ int main(){
     cout<<ob;
     return 0;
 }
+
+// We are manipulating cout and cin here to work for our class Person
