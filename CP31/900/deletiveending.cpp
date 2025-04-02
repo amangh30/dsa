@@ -1,55 +1,51 @@
-        #include<bits/stdc++.h>
-        using namespace std;
+#include<bits/stdc++.h>
+using namespace std;
 
-        void solve(){
-            string s1,s2;
-            cin>>s1>>s2;
+void solve(){
+    string s,t;
+    cin>>s>>t;
 
-            bool flag = false;
+    map<char,int> m1,m2;
 
-            int n = s1.length();
-            int j=0;
+    for(char& ch : s) m1[ch]++;
+    for(char& ch : t) m2[ch]++;
 
-            int n2 = s2.length();
+    int i=0,j=0;
 
-            unordered_map<char,int> mpp;
-
-            for(int i=0;i<n;i++){
-                if(s1[i]==s2[j]){
-                    j++;
-                    mpp[s1[i]]++;
-                    if(j==n2){
-                        flag = true;
-                    }
-                }
-
-                if(j==n && s2.find(s1[i]) != string::npos && mpp[s1[i]]>=1){
-                    flag = false;
-                    j=0;
-                    mpp.clear();
-                }
-
+    while(i<s.size() && j<t.size()){
+        if(s[i] == t[j]){
+            if(m1[s[i]] < m2[t[j]]){
+                break;
             }
-
-            if(flag){
-                cout<<"YES"<<endl;
+            if(m1[s[i]] == m2[t[j]]){
+                m2[t[j]]--;
+                j++;
             }
-            else{
-                cout<<"NO"<<endl;
-            }
-
         }
 
-        int main(){
-            ios::sync_with_stdio(false);
-            cin.tie(NULL);
+        m1[s[i]]--;
+        i++;
+    }
 
-            int t;
-            cin>>t;
+    if(j == t.size()){
+        cout<<"YES"<<endl;
+    }
+    else{
+        cout<<"NO"<<endl;
+    }
+}
 
-            while(t--){
-                solve();
-            }
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
 
-            return 0;
-        }
+    int t;
+    cin>>t;
+
+    while(t--){
+        solve();
+    }
+    return 0;
+}
+
+// https://codeforces.com/problemset/problem/1666/D
