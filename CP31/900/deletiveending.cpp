@@ -39,6 +39,7 @@ int main(){
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
+<<<<<<< HEAD
     int t;
     cin>>t;
 
