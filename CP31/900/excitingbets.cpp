@@ -2,7 +2,7 @@
 using namespace std;
 
 void solve() {
-  int a, b;
+  long long a, b;
   cin >> a >> b;
 
   if (a == b) {
