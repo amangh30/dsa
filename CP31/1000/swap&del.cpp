@@ -46,8 +46,6 @@ void solve(){
             }
         }
     }
-
-
 }
 
 int main(){
