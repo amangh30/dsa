@@ -12,7 +12,6 @@ void solve(){
 
     bool flag = true;
 
-
     for(int i = 1; i<n; i++){
         cin>>arr[i];
         pq.push(arr[i]);
