@@ -9,3 +9,6 @@
 
 3. [Ceil Formula Trick](https://github.com/amangh30/dsa/blob/main/Learning/3.md)
    Description: I mean bruhh, its literally what the topic says.
+
+4. [Cycle Detection](https://github.com/amangh30/dsa/blob/main/Learning/4.md)
+   Description: This file demonstrates how we can find cycle in a directed graph.
