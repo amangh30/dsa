@@ -12,3 +12,6 @@
 
 4. [Cycle Detection](https://github.com/amangh30/dsa/blob/main/Learning/4.md)
    Description: This file demonstrates how we can find cycle in a directed graph.
+
+5. [Exhaustive Search](https://github.com/amangh30/dsa/blob/main/Learning/5.md)
+   Description: When the answer lies in a *small known range**, a brute-force loop can efficiently solve the problem by checking all possible values.
