@@ -18,3 +18,6 @@
 
 6. [Binary/Fast Exponentiation](https://github.com/amangh30/dsa/blob/main/Learning/6.md)
    Description: Binary Exponentiation is an efficient algorithm to calculate the power of a number, especially useful for large exponents. It reduces the number of multiplication operations by breaking down the exponent into smaller, manageable parts.
+
+7. [Dutch National Flag](https://github.com/amangh30/dsa/blob/main/Learning/7.md)
+   Description: This file demonstrates the Dutch National Flag algorithm, which sorts an array of three distinct elements in linear time.
