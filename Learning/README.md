@@ -21,3 +21,6 @@
 
 7. [Dutch National Flag](https://github.com/amangh30/dsa/blob/main/Learning/7.md)
    Description: This file demonstrates the Dutch National Flag algorithm, which sorts an array of three distinct elements in linear time.
+
+8. [Difference Array](https://github.com/amangh30/dsa/blob/main/Learning/8.md)
+   Description: This file demonstrates the Difference Array algorithm, which is used to efficiently update and query ranges in an array.
