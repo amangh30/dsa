@@ -24,3 +24,6 @@
 
 8. [Difference Array](https://github.com/amangh30/dsa/blob/main/Learning/8.md)
    Description: This file demonstrates the Difference Array algorithm, which is used to efficiently update and query ranges in an array.
+
+9. [Sieve of Eratosthenes](https://github.com/amangh30/dsa/blob/main/Learning/9.md)
+   Description: This file demonstrates the Sieve of Eratosthenes algorithm, which is used to efficiently find all prime numbers up to a given limit.
