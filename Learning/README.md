@@ -27,3 +27,6 @@
 
 9. [Sieve of Eratosthenes](https://github.com/amangh30/dsa/blob/main/Learning/9.md)
    Description: This file demonstrates the Sieve of Eratosthenes algorithm, which is used to efficiently find all prime numbers up to a given limit.
+
+10. [Diagonal N-Queens Problem](https://github.com/amangh30/dsa/blob/main/Learning/10.md)
+    Description: This file demonstrates the Diagonal N-Queens Problem, which is a variation of the classic N-Queens Problem where queens are placed on a diagonal instead of a row.
