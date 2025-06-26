@@ -30,3 +30,6 @@
 
 10. [Diagonal N-Queens Problem](https://github.com/amangh30/dsa/blob/main/Learning/10.md)
     Description: This file demonstrates the Diagonal N-Queens Problem, which is a variation of the classic N-Queens Problem where queens are placed on a diagonal instead of a row.
+
+11 [Cycle Detection in Graph Algorithms](https://github.com/amangh30/dsa/blob/main/Learning/11.md)
+    Description: This file demonstrates how to detect negative cycle in a graph using various algorithm.
