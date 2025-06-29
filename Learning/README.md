@@ -36,3 +36,6 @@
 
 12. [Number to Base k](https://github.com/amangh30/dsa/blob/main/Learning/12.md)
     Description: This file demonstrates how to convert a number to a given base using various algorithm.
+
+13. [Finding Kth Smallest Product in 2 sorted array](https://github.com/amangh30/dsa/blob/main/Learning/13.md)
+    Description: This file demonstrates how to find the kth smallest product of two sorted arrays using various algorithm.
