@@ -39,3 +39,6 @@
 
 13. [Finding Kth Smallest Product in 2 sorted array](https://github.com/amangh30/dsa/blob/main/Learning/13.md)
     Description: This file demonstrates how to find the kth smallest product of two sorted arrays using various algorithm.
+
+14. [nth_element](https://github.com/amangh30/dsa/blob/main/Learning/14.md)
+    Description: This file demonstrates how to find the kth smallest element in an array using the nth_element algorithm.
