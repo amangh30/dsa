@@ -42,3 +42,6 @@
 
 14. [nth_element](https://github.com/amangh30/dsa/blob/main/Learning/14.md)
     Description: This file demonstrates how to find the kth smallest element in an array using the nth_element algorithm.
+
+15. [Comparators](https://github.com/amangh30/dsa/blob/main/Learning/15.md)
+    Description: This file demonstrates how to use comparators in C++ to customize the sorting order of elements.
