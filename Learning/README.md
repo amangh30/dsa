@@ -45,3 +45,6 @@
 
 15. [Comparators](https://github.com/amangh30/dsa/blob/main/Learning/15.md)
     Description: This file demonstrates how to use comparators in C++ to customize the sorting order of elements.
+
+16. [Bit Manipulation](https://github.com/amangh30/dsa/blob/main/Learning/16.md)
+    Description: This file demonstrates various bit manipulation techniques such as setting, clearing, toggling, and checking bits.
