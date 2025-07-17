@@ -48,3 +48,6 @@
 
 16. [Bit Manipulation](https://github.com/amangh30/dsa/blob/main/Learning/16.md)
     Description: This file demonstrates various bit manipulation techniques such as setting, clearing, toggling, and checking bits.
+
+17. [Counting Sort](https://github.com/amangh30/dsa/blob/main/Learning/17.md)
+    Description: This file demonstrates how to sort an array using the counting sort algorithm.
