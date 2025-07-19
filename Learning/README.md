@@ -51,3 +51,6 @@
 
 17. [Counting Sort](https://github.com/amangh30/dsa/blob/main/Learning/17.md)
     Description: This file demonstrates how to sort an array using the counting sort algorithm.
+
+18. [Bucket Sort](https://github.com/amangh30/dsa/blob/main/Learning/18.md)
+    Description: This file demonstrates how to sort an array using the bucket sort algorithm.
