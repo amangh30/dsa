@@ -54,3 +54,6 @@
 
 18. [Bucket Sort](https://github.com/amangh30/dsa/blob/main/Learning/18.md)
     Description: This file demonstrates how to sort an array using the bucket sort algorithm.
+
+19. [Square of a Sum Identity](https://github.com/amangh30/dsa/blob/main/Learning/19.md)
+    Description: This file demonstrates how to use the square of a sum identity.
