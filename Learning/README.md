@@ -14,7 +14,7 @@
    Description: This file demonstrates how we can find cycle in a directed graph.
 
 5. [Exhaustive Search](https://github.com/amangh30/dsa/blob/main/Learning/5.md)
-   Description: When the answer lies in a *small known range**, a brute-force loop can efficiently solve the problem by checking all possible values.
+   Description: When the answer lies in a *small known range*, a brute-force loop can efficiently solve the problem by checking all possible values.
 
 6. [Binary/Fast Exponentiation](https://github.com/amangh30/dsa/blob/main/Learning/6.md)
    Description: Binary Exponentiation is an efficient algorithm to calculate the power of a number, especially useful for large exponents. It reduces the number of multiplication operations by breaking down the exponent into smaller, manageable parts.
